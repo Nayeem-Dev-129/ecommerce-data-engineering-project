@@ -71,7 +71,7 @@ ecommerce-data-engineering-project/
 │       ├── aisles_sample.csv
 │       └── departments_sample.csv
 │
-├── screenshots/
+├── output_screenshots/
 │   ├── top_products/
 │   │   ├── chart.png
 │   │   └── table.png
@@ -144,7 +144,7 @@ ecommerce-data-engineering-project/
 
 ### 🔝 Top Products
 
-![Top Products](screenshots/top_products/chart.png)
+![Top Products](output_screenshots/top_products/chart.png)
 
 Shows the most frequently ordered products. These products have the highest demand and contribute significantly to overall sales.
 
@@ -152,7 +152,7 @@ Shows the most frequently ordered products. These products have the highest dema
 
 ### 🏬 Department Sales
 
-![Department Sales](screenshots/department_sales/chart.png)
+![Department Sales](output_screenshots/department_sales/chart.png)
 
 Highlights which departments generate the most orders. This helps identify high-performing categories in the business.
 
@@ -160,7 +160,7 @@ Highlights which departments generate the most orders. This helps identify high-
 
 ### 🛒 Aisle Sales
 
-![Aisle Sales](screenshots/aisle_sales/chart.png)
+![Aisle Sales](output_screenshots/aisle_sales/chart.png)
 
 Provides a more granular view of product categories within departments, helping analyze customer preferences at aisle level.
 
@@ -168,7 +168,7 @@ Provides a more granular view of product categories within departments, helping 
 
 ### 🔁 Reorder Rate
 
-![Reorder Rate](screenshots/reorder_rate/chart.png)
+![Reorder Rate](output_screenshots/reorder_rate/chart.png)
 
 Indicates the proportion of reordered products. A higher reorder rate suggests strong customer retention and product satisfaction.
 
@@ -176,7 +176,7 @@ Indicates the proportion of reordered products. A higher reorder rate suggests s
 
 ### 🗓️ Orders by Day
 
-![Orders by Day](screenshots/orders_by_day/chart.png)
+![Orders by Day](output_screenshots/orders_by_day/chart.png)
 
 Shows how orders are distributed across different days of the week, helping identify peak shopping days.
 
@@ -184,7 +184,7 @@ Shows how orders are distributed across different days of the week, helping iden
 
 ### ⏰ Orders by Hour
 
-![Orders by Hour](screenshots/orders_by_hour/chart.png)
+![Orders by Hour](output_screenshots/orders_by_hour/chart.png)
 
 Displays customer activity throughout the day. Typically, peak ordering hours occur during daytime or evening.
 
@@ -192,7 +192,7 @@ Displays customer activity throughout the day. Typically, peak ordering hours oc
 
 ### 🔄 Top Reordered Products
 
-![Top Reordered Products](screenshots/top_reordered_products/chart.png)
+![Top Reordered Products](output_screenshots/top_reordered_products/chart.png)
 
 Shows products that are most frequently reordered, indicating strong customer loyalty and repeat demand.
 
@@ -200,7 +200,7 @@ Shows products that are most frequently reordered, indicating strong customer lo
 
 ### 🆕 Top First-Time Ordered Products
 
-![Top First Time Products](screenshots/top_first_time_products/chart.png)
+![Top First Time Products](output_screenshots/top_first_time_products/chart.png)
 
 Represents products that are commonly purchased for the first time, helping identify popular entry-point items for customers.
 
