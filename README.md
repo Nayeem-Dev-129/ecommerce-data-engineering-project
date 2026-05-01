@@ -92,7 +92,7 @@ ecommerce-data-engineering-project/
 │   │   ├── chart.png
 │   │   └── table.png
 │   │
-│   ├── reordered_rate
+│   ├── reordered_rate.png
 │   │
 │   ├── top_reordered_products/
 │   │   ├── chart.png
@@ -166,7 +166,7 @@ Provides a more granular view of product categories within departments, helping 
 
 ### 🔁 Reorder Rate
 
-![Reorder Rate](output_screenshots/reordered_rate)
+![Reorder Rate](output_screenshots/reordered_rate.png)
 
 Indicates the proportion of reordered products. A higher reorder rate suggests strong customer retention and product satisfaction.
 
