@@ -168,7 +168,7 @@ Provides a more granular view of product categories within departments, helping 
 
 ### 🔁 Reorder Rate
 
-![Reorder Rate](output_screenshots/reorder_rate/chart.png)
+![Reorder Rate](output_screenshots/reordered_rate/chart.png)
 
 Indicates the proportion of reordered products. A higher reorder rate suggests strong customer retention and product satisfaction.
 
@@ -200,7 +200,7 @@ Shows products that are most frequently reordered, indicating strong customer lo
 
 ### 🆕 Top First-Time Ordered Products
 
-![Top First Time Products](output_screenshots/top_first_time_products/chart.png)
+![Top First Time Products](output_screenshots/top_first_time_ordered_products/chart.png)
 
 Represents products that are commonly purchased for the first time, helping identify popular entry-point items for customers.
 
